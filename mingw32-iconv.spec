@@ -6,7 +6,7 @@
 
 Name:      mingw32-iconv
 Version:   1.12
-Release:   %mkrel 2
+Release:   %mkrel 3
 Summary:   GNU libraries and utilities for character set conversion
 
 License:   GPLv2+ and LGPLv2+

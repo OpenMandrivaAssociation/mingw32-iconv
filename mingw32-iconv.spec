@@ -11,7 +11,7 @@ Summary:   GNU libraries and utilities for character set conversion
 
 License:   GPLv2+ and LGPLv2+
 Group:     Development/Other
-URL:       http://www.gnu.org/software/libiconv/
+URL:       https://www.gnu.org/software/libiconv/
 Source0:   http://ftp.gnu.org/pub/gnu/libiconv/libiconv-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch

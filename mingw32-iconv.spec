@@ -16,6 +16,7 @@ Source0:   http://ftp.gnu.org/pub/gnu/libiconv/libiconv-%{version}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
+BuildRequires:	make
 BuildRequires: mingw32-filesystem >= 23
 BuildRequires: mingw32-gcc
 BuildRequires: mingw32-binutils
